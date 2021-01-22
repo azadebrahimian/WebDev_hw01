@@ -15,9 +15,15 @@ Domain Name: wumbo.casa
 https://github.com/azadebrahimian/WebDev_hw01
 
 5. Which parts of this assignment did you have trouble with, if any?
-My first issue was adding my non-root account to the sudoers list. I then struggled to connect the domain name with the IP when searching for the web page. I also struggled with understanding the uses of sites-available vs sites-enabled (both for how to implement subdomain and main index, as well as what these directories did).
+My first issue was adding my non-root account to the sudoers list.
+I then struggled to connect the domain name with the IP when
+searching for the web page. I also struggled with understanding 
+the uses of sites-available vs sites-enabled (both for how to 
+implement subdomain and main index, as well as what these 
+directories did).
 
-I was able to resolve everything by google search, youtube, and piazza posts.
+I was able to resolve everything by google search,
+youtube, and piazza posts.
 
 
 And here's a list of tasks for grading comments. Just leave this here:
